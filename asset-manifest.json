@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/collab-project/static/css/main.61b9a4c5.chunk.css",
-    "main.js": "/collab-project/static/js/main.f15020d9.chunk.js",
-    "main.js.map": "/collab-project/static/js/main.f15020d9.chunk.js.map",
+    "main.js": "/collab-project/static/js/main.10524926.chunk.js",
+    "main.js.map": "/collab-project/static/js/main.10524926.chunk.js.map",
     "runtime-main.js": "/collab-project/static/js/runtime-main.5fe8e064.js",
     "runtime-main.js.map": "/collab-project/static/js/runtime-main.5fe8e064.js.map",
-    "static/js/2.0f248246.chunk.js": "/collab-project/static/js/2.0f248246.chunk.js",
-    "static/js/2.0f248246.chunk.js.map": "/collab-project/static/js/2.0f248246.chunk.js.map",
+    "static/js/2.7dd83335.chunk.js": "/collab-project/static/js/2.7dd83335.chunk.js",
+    "static/js/2.7dd83335.chunk.js.map": "/collab-project/static/js/2.7dd83335.chunk.js.map",
     "static/js/3.026f8aff.chunk.js": "/collab-project/static/js/3.026f8aff.chunk.js",
     "static/js/3.026f8aff.chunk.js.map": "/collab-project/static/js/3.026f8aff.chunk.js.map",
     "index.html": "/collab-project/index.html",
     "static/css/main.61b9a4c5.chunk.css.map": "/collab-project/static/css/main.61b9a4c5.chunk.css.map",
-    "static/js/2.0f248246.chunk.js.LICENSE.txt": "/collab-project/static/js/2.0f248246.chunk.js.LICENSE.txt"
+    "static/js/2.7dd83335.chunk.js.LICENSE.txt": "/collab-project/static/js/2.7dd83335.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5fe8e064.js",
-    "static/js/2.0f248246.chunk.js",
+    "static/js/2.7dd83335.chunk.js",
     "static/css/main.61b9a4c5.chunk.css",
-    "static/js/main.f15020d9.chunk.js"
+    "static/js/main.10524926.chunk.js"
   ]
 }
